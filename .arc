@@ -1,5 +1,5 @@
 @app
-begin-app
+local-c8k
 
 @static
 folder build
